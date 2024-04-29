@@ -43,3 +43,5 @@ Clone this repository to your local machine:
 ```bash
 git clone https://github.com/HarshBaldaniya/thread_sync.git
 cd thread_sync
+npm install
+npx ts-node src/index.ts
